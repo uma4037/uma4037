@@ -1,4 +1,4 @@
-### Fancy seeing you here! 👋
+## Fancy seeing you here! 👋
 I am Uma Negi, currently pursuing my bachelor's degree majoring in computer science engineering from UIET, Kurukshetra.
 
 ## ⚡ Technologies
